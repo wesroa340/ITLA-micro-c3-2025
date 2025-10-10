@@ -1,0 +1,8 @@
+{
+    "idf.portWin": "COM9",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "idf.flashType": "UART"
+}
